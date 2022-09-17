@@ -3,6 +3,8 @@
 
 <img src="https://cdn.discordapp.com/attachments/999480275983663185/1020462926223654952/unknown.png"/>
 
+### Discord : [CodeCool Developer](https://discord.gg/K7PDe2jfpW)
+
 ### วิธีใช้งาน
 ```
 exports.cc_text_UI:ShowHelpNotification('กด ~INPUT_CONTEXT~ คุยกับ NPC')
